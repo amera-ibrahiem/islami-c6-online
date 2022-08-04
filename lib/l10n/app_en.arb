@@ -8,5 +8,6 @@
   "language": "Language",
   "theme": "Theme",
   "light": "Light",
-  "dark": "Dark"
+  "dark": "Dark",
+  "noOfTasbeh": "Number Of Tasbeh"
 }
